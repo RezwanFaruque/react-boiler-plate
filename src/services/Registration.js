@@ -1,0 +1,8 @@
+
+const Registration = ()=>{
+
+}
+
+export {
+    Registration
+}
